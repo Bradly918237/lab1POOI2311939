@@ -6,6 +6,8 @@ Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
 //EJERCICIO 1 
+//Profesora he comentado cada vez que declaraba las variables x y z a partir del ejercicio 1 c, porque ya se declaro en el ejercicio 1 b 
+// y si volvia a declarar me sale error
 public class Main
 {
 	public static void main(String[] args) {
